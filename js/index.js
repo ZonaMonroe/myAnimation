@@ -114,5 +114,6 @@
         })());
         //开始动画
         goOn(DURATION, INTERVAL);
+        // just for test
     }
 })()
