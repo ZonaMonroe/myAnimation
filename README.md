@@ -20,3 +20,5 @@ npm install --save-dev   (写入devDepandencies）
 - **一定要用ssh地址，https的要输入密码、账号**
 - git remote remove origin
 - git remote add origin git@github.com:mejustme/nej-study.git
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luluda&theme=calm&show_icons=true)
